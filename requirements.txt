@@ -51,5 +51,6 @@ httpx==0.25.2
 gpytranslate
 openai==0.28.0
 mpv
+yt-dlp==2024.3.10
 moviepy
 python-telegram-bot==21.1.1
